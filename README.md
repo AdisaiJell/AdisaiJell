@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adisai Jell</h1>
-<h3 align="center">I'm passionate about Backend Development, with skills honed through building various projects and continuously improving my programming abilities.</h3>
+<h3 align="center">A passionate frontend developer from Thailand</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/adisai.jitngamkam.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/adisai.jitngamkam.9" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/อดิศัย-จิตต์งามขํา-06bb0a2bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/อดิศัย-จิตต์งามขํา-06bb0a2bb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
